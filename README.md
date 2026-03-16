@@ -1,2 +1,5 @@
 # ray-tracer-py
-Zero-dependency Python implementation.
+
+Basic ray tracer with spheres and lighting
+
+Zero-dependency Python. Stdlib only.
